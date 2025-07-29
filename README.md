@@ -9,7 +9,7 @@
 
 ## ⚙️ Projetos em andamento
 - 🌐 Página pessoal em HTML para mostrar minha trajetória
--  Criaçãp de um quiz 
+-  Criação de um quiz 
 
 ## 🛠 Ferramentas favoritas
 - Visual Studio Code
