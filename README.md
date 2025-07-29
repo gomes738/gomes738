@@ -2,10 +2,9 @@
 
 <p align="center">📍 Piripiri, Piauí | 💻 Estudante de ADS no IFPI</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. 
 
 ## 🚀 O que estou aprendendo
-- 💡 Programação orientada a objetos (TypeScript e Javascript)
+- 💡 Programação (TypeScript e Javascript)
 - 🌐 HTML, CSS e interfaces visuais
 - 🧠 Fundamentos de Inteligência Artificial e automação
 
