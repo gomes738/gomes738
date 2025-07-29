@@ -4,18 +4,16 @@
 
 
 ## 🚀 O que estou aprendendo
-- 💡 Programação (TypeScript e Javascript)
+- 💡 TypeScript e Javascript
 - 🌐 HTML, CSS e interfaces visuais
-- 🧠 Fundamentos de Inteligência Artificial e automação
 
 ## ⚙️ Projetos em andamento
 - 🌐 Página pessoal em HTML para mostrar minha trajetória
--  Criaçãp e um quiz 
+-  Criaçãp de um quiz 
 
 ## 🛠 Ferramentas favoritas
 - Visual Studio Code
 - Git e GitHub
-- TypeScript Playground
 
 ---
 
