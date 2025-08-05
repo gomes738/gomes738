@@ -21,7 +21,6 @@
 
 <p>
   <a href="mailto:capir.2025116tads0024@aluno.ifpi.edu.br">📧 Email acadêmico</a> |
-  <a href="https://github.com/gomes738">🌐 GitHub: gomes738</a> |
   <a href="https://www.instagram.com/carlosgomes.z/"> 📷 Instagram: carlosgomes.z </a> 
 
 </p>
