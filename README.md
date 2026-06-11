@@ -2,13 +2,10 @@
 
 <p align="center">📍 Piripiri, Piauí | 💻 Desenvolvedor Full-Stack & Estudante de ADS no IFPI</p>
 
-Sou apaixonado por resolver problemas reais através do código, unindo arquiteturas de software robustas no back-end com interfaces dinâmicas e otimizadas no front-end. Foco na construção de sistemas de impacto educacional, comercial e social.
-
 ### 🚀 Sobre mim
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** (IFPI - Campus Piripiri).
-- 💡 Foco em **Princípios SOLID** e Estruturas de Dados.
-- 🤝 Experiência prática em **Pair Programming** e colaboração activa na engenharia de requisitos.
+- 🤝 Experiência prática em colaboração ativa na engenharia de requisitos.
 - 🎨 Entusiasta de UI/UX, criação de conteúdo digital e design criativo.
 
 ### 💻 Tecnologias e Ferramentas
@@ -47,5 +44,4 @@ Sou apaixonado por resolver problemas reais através do código, unindo arquitet
   <a href="https://www.instagram.com/carlosgomes.z/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
----
-⭐️ *Construindo sistemas de alto impacto, um commit de cada vez.*
+
