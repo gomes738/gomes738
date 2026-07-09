@@ -64,6 +64,6 @@
 ---
 
 <p align="center">
-⭐ Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor.
+ Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor.
 </p>
 
